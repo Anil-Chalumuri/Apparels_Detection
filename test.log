@@ -1,0 +1,860 @@
+2021-01-01 14:57:40,210:INFO: * Restarting with stat
+2021-01-01 14:57:43,053:WARNING: * Debugger is active!
+2021-01-01 14:57:44,035:INFO: * Debugger PIN: 174-931-775
+2021-01-01 14:57:44,840:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 14:58:33,742:INFO:Using CPU
+2021-01-01 14:58:33,742:INFO:
+2021-01-01 14:58:35,507:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 14:58:38,326:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 14:58:38,523:INFO:127.0.0.1 - - [01/Jan/2021 14:58:38] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 14:59:23,521:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 14:59:24,245:INFO: * Restarting with stat
+2021-01-01 14:59:26,684:WARNING: * Debugger is active!
+2021-01-01 14:59:26,696:INFO: * Debugger PIN: 174-931-775
+2021-01-01 14:59:26,706:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 14:59:42,786:INFO:Using CPU
+2021-01-01 14:59:42,787:INFO:
+2021-01-01 14:59:43,092:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 14:59:43,889:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 14:59:43,903:INFO:127.0.0.1 - - [01/Jan/2021 14:59:43] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 14:59:57,252:INFO: * Restarting with stat
+2021-01-01 15:00:00,870:WARNING: * Debugger is active!
+2021-01-01 15:00:00,882:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:00:00,892:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:00:14,831:INFO:Using CPU
+2021-01-01 15:00:14,831:INFO:
+2021-01-01 15:00:15,229:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:00:15,975:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:00:15,987:INFO:127.0.0.1 - - [01/Jan/2021 15:00:15] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:01:17,698:INFO: * Restarting with stat
+2021-01-01 15:01:21,141:WARNING: * Debugger is active!
+2021-01-01 15:01:21,153:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:01:21,165:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:01:30,288:INFO:Using CPU
+2021-01-01 15:01:30,288:INFO:
+2021-01-01 15:01:30,675:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:01:31,360:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:01:31,486:INFO:127.0.0.1 - - [01/Jan/2021 15:01:31] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:01:58,081:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:01:58,445:INFO: * Restarting with stat
+2021-01-01 15:02:05,022:INFO: * Restarting with stat
+2021-01-01 15:02:08,483:WARNING: * Debugger is active!
+2021-01-01 15:02:08,495:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:02:08,507:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:02:19,926:INFO:Using CPU
+2021-01-01 15:02:19,926:INFO:
+2021-01-01 15:02:20,311:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:02:21,042:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:02:21,060:INFO:127.0.0.1 - - [01/Jan/2021 15:02:21] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:03:03,187:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:03:03,826:INFO: * Restarting with stat
+2021-01-01 15:03:06,359:WARNING: * Debugger is active!
+2021-01-01 15:03:06,371:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:03:06,381:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:03:18,290:INFO: * Restarting with stat
+2021-01-01 15:03:21,781:WARNING: * Debugger is active!
+2021-01-01 15:03:21,792:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:03:21,803:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:03:28,486:INFO:Using CPU
+2021-01-01 15:03:28,486:INFO:
+2021-01-01 15:03:28,868:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:03:29,603:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:03:29,651:DEBUG:Saved to db succesfuly with record
+2021-01-01 15:03:29,653:INFO:127.0.0.1 - - [01/Jan/2021 15:03:29] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:05:38,429:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:05:38,743:INFO: * Restarting with stat
+2021-01-01 15:05:45,425:INFO: * Restarting with stat
+2021-01-01 15:05:48,915:WARNING: * Debugger is active!
+2021-01-01 15:05:48,927:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:05:48,937:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:05:51,722:INFO:Using CPU
+2021-01-01 15:05:51,723:INFO:
+2021-01-01 15:05:52,234:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:05:52,990:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:05:52,991:INFO:127.0.0.1 - - [01/Jan/2021 15:05:52] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:06:49,139:INFO: * Restarting with stat
+2021-01-01 15:06:52,784:WARNING: * Debugger is active!
+2021-01-01 15:06:52,802:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:06:52,814:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:06:55,695:INFO:Using CPU
+2021-01-01 15:06:55,695:INFO:
+2021-01-01 15:06:56,131:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:06:56,839:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:06:56,847:DEBUG:Saved to db succesfuly with record
+2021-01-01 15:06:56,848:INFO:127.0.0.1 - - [01/Jan/2021 15:06:56] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:08:24,387:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:08:25,020:INFO: * Restarting with stat
+2021-01-01 15:08:34,949:INFO: * Restarting with stat
+2021-01-01 15:08:38,677:WARNING: * Debugger is active!
+2021-01-01 15:08:38,692:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:08:38,701:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:08:40,795:INFO:Using CPU
+2021-01-01 15:08:40,795:INFO:
+2021-01-01 15:08:41,347:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:08:42,349:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:08:42,357:DEBUG:Saved to db succesfuly with record
+2021-01-01 15:08:42,358:INFO:127.0.0.1 - - [01/Jan/2021 15:08:42] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:11:23,007:INFO: * Restarting with stat
+2021-01-01 15:11:26,702:WARNING: * Debugger is active!
+2021-01-01 15:11:26,715:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:11:26,726:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:11:30,420:INFO:Using CPU
+2021-01-01 15:11:30,420:INFO:
+2021-01-01 15:11:30,795:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:11:31,628:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:11:31,632:ERROR:cannot encode object: <bound method Collection.count_documents of Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'appdb'), 'appdb')>, of type: <class 'method'>
+2021-01-01 15:11:31,633:INFO:127.0.0.1 - - [01/Jan/2021 15:11:31] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:11:51,773:INFO:Using CPU
+2021-01-01 15:11:51,773:INFO:
+2021-01-01 15:11:52,079:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:11:52,790:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:11:52,794:ERROR:cannot encode object: <bound method Collection.count_documents of Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'appdb'), 'appdb')>, of type: <class 'method'>
+2021-01-01 15:11:52,795:INFO:127.0.0.1 - - [01/Jan/2021 15:11:52] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:13:15,937:INFO:Using CPU
+2021-01-01 15:13:15,937:INFO:
+2021-01-01 15:13:16,327:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:13:16,969:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:13:16,972:ERROR:cannot encode object: <bound method Collection.count_documents of Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'appdb'), 'appdb')>, of type: <class 'method'>
+2021-01-01 15:13:16,974:INFO:127.0.0.1 - - [01/Jan/2021 15:13:16] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:14:15,246:INFO: * Restarting with stat
+2021-01-01 15:14:18,902:WARNING: * Debugger is active!
+2021-01-01 15:14:18,922:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:14:18,933:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:14:20,742:INFO:Using CPU
+2021-01-01 15:14:20,742:INFO:
+2021-01-01 15:14:21,306:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:14:22,532:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:14:22,548:INFO:127.0.0.1 - - [01/Jan/2021 15:14:22] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:15:08,212:INFO: * Restarting with stat
+2021-01-01 15:15:12,080:WARNING: * Debugger is active!
+2021-01-01 15:15:12,099:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:15:12,114:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:15:14,491:INFO:Using CPU
+2021-01-01 15:15:14,491:INFO:
+2021-01-01 15:15:15,006:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:15:16,188:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:15:16,207:INFO:127.0.0.1 - - [01/Jan/2021 15:15:16] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:15:38,356:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:15:38,910:INFO: * Restarting with stat
+2021-01-01 15:15:45,193:INFO: * Restarting with stat
+2021-01-01 15:15:49,127:WARNING: * Debugger is active!
+2021-01-01 15:15:49,210:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:15:49,241:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:15:50,007:INFO:Using CPU
+2021-01-01 15:15:50,007:INFO:
+2021-01-01 15:15:50,545:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:15:51,797:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:15:51,806:DEBUG:Saved to db succesfuly with record 
+2021-01-01 15:15:51,808:INFO:127.0.0.1 - - [01/Jan/2021 15:15:51] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:21:35,544:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:21:35,991:INFO: * Restarting with stat
+2021-01-01 15:21:38,739:WARNING: * Debugger is active!
+2021-01-01 15:21:38,752:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:21:38,762:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:22:17,511:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:22:18,064:INFO: * Restarting with stat
+2021-01-01 15:22:20,935:WARNING: * Debugger is active!
+2021-01-01 15:22:20,949:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:22:20,960:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:24:12,366:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:24:13,024:INFO: * Restarting with stat
+2021-01-01 15:24:15,531:WARNING: * Debugger is active!
+2021-01-01 15:24:15,547:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:24:15,560:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:27:22,453:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:27:22,963:INFO: * Restarting with stat
+2021-01-01 15:27:25,552:WARNING: * Debugger is active!
+2021-01-01 15:27:25,570:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:27:25,581:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:27:41,930:INFO: * Restarting with stat
+2021-01-01 15:27:45,643:WARNING: * Debugger is active!
+2021-01-01 15:27:45,660:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:27:45,671:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:27:47,157:INFO:Using CPU
+2021-01-01 15:27:47,157:INFO:
+2021-01-01 15:27:47,796:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:27:49,220:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:27:49,242:ERROR:format() argument 2 must be str, not int
+2021-01-01 15:27:49,243:INFO:127.0.0.1 - - [01/Jan/2021 15:27:49] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:29:34,615:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:29:35,113:INFO: * Restarting with stat
+2021-01-01 15:29:37,657:WARNING: * Debugger is active!
+2021-01-01 15:29:37,675:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:29:37,687:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:32:13,497:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:32:14,088:INFO: * Restarting with stat
+2021-01-01 15:32:16,835:WARNING: * Debugger is active!
+2021-01-01 15:32:16,852:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:32:16,865:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:37:36,652:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:37:37,155:INFO: * Restarting with stat
+2021-01-01 15:39:17,937:INFO: * Restarting with stat
+2021-01-01 15:39:21,664:WARNING: * Debugger is active!
+2021-01-01 15:39:21,680:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:39:21,689:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:39:23,428:INFO:Using CPU
+2021-01-01 15:39:23,429:INFO:
+2021-01-01 15:39:24,010:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:39:25,067:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:39:25,074:DEBUG:Saved to db succesfuly with record no :17
+2021-01-01 15:39:25,080:DEBUG: 1   :  654135 
+2021-01-01 15:39:25,083:INFO:127.0.0.1 - - [01/Jan/2021 15:39:25] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:40:55,688:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:40:56,186:INFO: * Restarting with stat
+2021-01-01 15:40:59,016:WARNING: * Debugger is active!
+2021-01-01 15:40:59,033:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:40:59,049:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:43:09,742:INFO: * Restarting with stat
+2021-01-01 15:43:13,764:WARNING: * Debugger is active!
+2021-01-01 15:43:13,782:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:43:13,795:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:43:14,037:INFO:Using CPU
+2021-01-01 15:43:14,038:INFO:
+2021-01-01 15:43:14,643:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:43:16,188:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:43:16,198:DEBUG:Saved to db succesfuly with record no :18
+2021-01-01 15:43:16,213:INFO:127.0.0.1 - - [01/Jan/2021 15:43:16] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:53:57,107:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:53:57,702:INFO: * Restarting with stat
+2021-01-01 15:54:00,435:WARNING: * Debugger is active!
+2021-01-01 15:54:00,459:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:54:00,472:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:55:00,529:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:55:00,817:INFO: * Restarting with stat
+2021-01-01 15:55:08,025:INFO: * Restarting with stat
+2021-01-01 15:55:11,592:WARNING: * Debugger is active!
+2021-01-01 15:55:11,610:INFO: * Debugger PIN: 174-931-775
+2021-01-01 15:55:11,630:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 15:55:13,814:INFO:Using CPU
+2021-01-01 15:55:13,815:INFO:
+2021-01-01 15:55:14,293:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 15:55:15,139:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 15:55:15,145:DEBUG:Saved to db succesfuly with record no :19
+2021-01-01 15:55:15,146:INFO:127.0.0.1 - - [01/Jan/2021 15:55:15] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 15:55:40,990:INFO: * Detected change in 'C:\\iNeuron\\Internship\\factory_fire_&_smoke\\clientApp.py', reloading
+2021-01-01 15:55:41,423:INFO: * Restarting with stat
+2021-01-01 16:08:45,475:INFO: * Restarting with stat
+2021-01-01 16:08:49,157:WARNING: * Debugger is active!
+2021-01-01 16:08:49,171:INFO: * Debugger PIN: 174-931-775
+2021-01-01 16:08:49,182:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 16:09:11,143:INFO:127.0.0.1 - - [01/Jan/2021 16:09:11] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-01 16:11:18,391:INFO:Using CPU
+2021-01-01 16:11:18,392:INFO:
+2021-01-01 16:11:18,746:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 16:11:19,640:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 16:11:19,685:DEBUG:Saved to db succesfuly with record no :20
+2021-01-01 16:11:19,688:INFO:127.0.0.1 - - [01/Jan/2021 16:11:19] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 16:16:29,900:INFO:127.0.0.1 - - [01/Jan/2021 16:16:29] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-01 16:24:37,852:INFO:127.0.0.1 - - [01/Jan/2021 16:24:37] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-01 16:25:02,907:INFO:Using CPU
+2021-01-01 16:25:02,907:INFO:
+2021-01-01 16:25:03,301:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 16:25:03,990:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 16:25:03,997:DEBUG:Saved to db succesfuly with record no :21
+2021-01-01 16:25:03,999:INFO:127.0.0.1 - - [01/Jan/2021 16:25:03] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 17:54:29,776:INFO: * Restarting with stat
+2021-01-01 17:54:33,578:WARNING: * Debugger is active!
+2021-01-01 17:54:33,626:INFO: * Debugger PIN: 174-931-775
+2021-01-01 17:54:33,636:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 17:54:41,267:INFO:127.0.0.1 - - [01/Jan/2021 17:54:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-01 17:54:49,305:INFO:Using CPU
+2021-01-01 17:54:49,305:INFO:
+2021-01-01 17:54:49,865:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 17:54:50,600:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 17:54:50,609:DEBUG:Saved to db succesfuly with record no :22
+2021-01-01 17:54:50,610:INFO:127.0.0.1 - - [01/Jan/2021 17:54:50] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 17:59:52,844:INFO: * Restarting with stat
+2021-01-01 17:59:56,574:WARNING: * Debugger is active!
+2021-01-01 17:59:56,590:INFO: * Debugger PIN: 174-931-775
+2021-01-01 17:59:56,601:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 17:59:58,039:INFO:127.0.0.1 - - [01/Jan/2021 17:59:58] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-01 18:00:03,978:INFO:Using CPU
+2021-01-01 18:00:03,979:INFO:
+2021-01-01 18:00:04,351:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 18:00:05,042:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 18:00:05,052:DEBUG:Saved to db succesfuly with record no :23
+2021-01-01 18:00:05,054:INFO:127.0.0.1 - - [01/Jan/2021 18:00:05] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 19:01:41,217:INFO: * Restarting with stat
+2021-01-01 19:01:45,277:WARNING: * Debugger is active!
+2021-01-01 19:01:45,307:INFO: * Debugger PIN: 174-931-775
+2021-01-01 19:01:45,341:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 19:01:50,162:INFO:127.0.0.1 - - [01/Jan/2021 19:01:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-01 19:01:58,666:INFO:Using CPU
+2021-01-01 19:01:58,666:INFO:
+2021-01-01 19:02:00,790:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 19:02:02,701:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 19:02:02,710:DEBUG:Saved to db succesfuly with record no :24
+2021-01-01 19:02:02,711:DEBUG:Changing event name from creating-client-class.iot-data to creating-client-class.iot-data-plane
+2021-01-01 19:02:02,713:DEBUG:Changing event name from before-call.apigateway to before-call.api-gateway
+2021-01-01 19:02:02,714:DEBUG:Changing event name from request-created.machinelearning.Predict to request-created.machine-learning.Predict
+2021-01-01 19:02:02,717:DEBUG:Changing event name from before-parameter-build.autoscaling.CreateLaunchConfiguration to before-parameter-build.auto-scaling.CreateLaunchConfiguration
+2021-01-01 19:02:02,717:DEBUG:Changing event name from before-parameter-build.route53 to before-parameter-build.route-53
+2021-01-01 19:02:02,718:DEBUG:Changing event name from request-created.cloudsearchdomain.Search to request-created.cloudsearch-domain.Search
+2021-01-01 19:02:02,719:DEBUG:Changing event name from docs.*.autoscaling.CreateLaunchConfiguration.complete-section to docs.*.auto-scaling.CreateLaunchConfiguration.complete-section
+2021-01-01 19:02:02,723:DEBUG:Changing event name from before-parameter-build.logs.CreateExportTask to before-parameter-build.cloudwatch-logs.CreateExportTask
+2021-01-01 19:02:02,724:DEBUG:Changing event name from docs.*.logs.CreateExportTask.complete-section to docs.*.cloudwatch-logs.CreateExportTask.complete-section
+2021-01-01 19:02:02,724:DEBUG:Changing event name from before-parameter-build.cloudsearchdomain.Search to before-parameter-build.cloudsearch-domain.Search
+2021-01-01 19:02:02,724:DEBUG:Changing event name from docs.*.cloudsearchdomain.Search.complete-section to docs.*.cloudsearch-domain.Search.complete-section
+2021-01-01 19:02:02,735:DEBUG:Loading JSON file: C:\Users\chalumuri\Anaconda3\envs\factory_fire\lib\site-packages\botocore\data\endpoints.json
+2021-01-01 19:02:02,748:DEBUG:Event choose-service-name: calling handler <function handle_service_name_alias at 0x00000080C41CC0D8>
+2021-01-01 19:02:02,839:DEBUG:Loading JSON file: C:\Users\chalumuri\Anaconda3\envs\factory_fire\lib\site-packages\botocore\data\s3\2006-03-01\service-2.json
+2021-01-01 19:02:02,855:DEBUG:Event creating-client-class.s3: calling handler <function add_generate_presigned_post at 0x00000080C417F558>
+2021-01-01 19:02:02,855:DEBUG:Event creating-client-class.s3: calling handler <function lazy_call.<locals>._handler at 0x00000080C5FCCB88>
+2021-01-01 19:02:03,058:DEBUG:Event creating-client-class.s3: calling handler <function add_generate_presigned_url at 0x00000080C417F318>
+2021-01-01 19:02:03,071:DEBUG:Setting s3 timeout as (60, 60)
+2021-01-01 19:02:03,080:DEBUG:Loading JSON file: C:\Users\chalumuri\Anaconda3\envs\factory_fire\lib\site-packages\botocore\data\_retry.json
+2021-01-01 19:02:03,081:DEBUG:Registering retry handlers for service: s3
+2021-01-01 19:02:03,084:DEBUG:Acquiring 0
+2021-01-01 19:02:03,086:DEBUG:UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x00000080C6243B08>}) about to wait for the following futures []
+2021-01-01 19:02:03,086:DEBUG:UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x00000080C6243B08>}) done waiting for dependent futures
+2021-01-01 19:02:03,087:DEBUG:Executing task UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x00000080C6243B08>}) with kwargs {'client': <botocore.client.S3 object at 0x00000080C6565B88>, 'config': <boto3.s3.transfer.TransferConfig object at 0x00000080C6243488>, 'osutil': <s3transfer.utils.OSUtils object at 0x00000080C6243448>, 'request_executor': <s3transfer.futures.BoundedExecutor object at 0x00000080C6243608>, 'transfer_future': <s3transfer.futures.TransferFuture object at 0x00000080C6243B08>}
+2021-01-01 19:02:03,088:DEBUG:Submitting task PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) to executor <s3transfer.futures.BoundedExecutor object at 0x00000080C6243608> for transfer request: 0.
+2021-01-01 19:02:03,088:DEBUG:Acquiring 0
+2021-01-01 19:02:03,089:DEBUG:PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) about to wait for the following futures []
+2021-01-01 19:02:03,089:DEBUG:Releasing acquire 0/None
+2021-01-01 19:02:03,089:DEBUG:PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) done waiting for dependent futures
+2021-01-01 19:02:03,090:DEBUG:Executing task PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) with kwargs {'client': <botocore.client.S3 object at 0x00000080C6565B88>, 'fileobj': <s3transfer.utils.ReadFileChunk object at 0x00000080C33FB248>, 'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}
+2021-01-01 19:02:03,091:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function validate_ascii_metadata at 0x00000080C51C1798>
+2021-01-01 19:02:03,091:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function sse_md5 at 0x00000080C41EAB88>
+2021-01-01 19:02:03,092:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function convert_body_to_file_like_object at 0x00000080C51C30D8>
+2021-01-01 19:02:03,092:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function validate_bucket_name at 0x00000080C41EAAF8>
+2021-01-01 19:02:03,092:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <bound method S3RegionRedirector.redirect_from_cache of <botocore.utils.S3RegionRedirector object at 0x00000080C623B808>>
+2021-01-01 19:02:03,092:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <bound method S3ArnParamHandler.handle_arn of <botocore.utils.S3ArnParamHandler object at 0x00000080C5FB0BC8>>
+2021-01-01 19:02:03,093:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function generate_idempotent_uuid at 0x00000080C41EA948>
+2021-01-01 19:02:03,094:DEBUG:Event before-call.s3.PutObject: calling handler <function conditionally_calculate_md5 at 0x00000080C4069798>
+2021-01-01 19:02:03,096:DEBUG:Event before-call.s3.PutObject: calling handler <function add_expect_header at 0x00000080C41EAE58>
+2021-01-01 19:02:03,096:DEBUG:Adding expect 100 continue header to request.
+2021-01-01 19:02:03,097:DEBUG:Event before-call.s3.PutObject: calling handler <bound method S3RegionRedirector.set_request_url of <botocore.utils.S3RegionRedirector object at 0x00000080C623B808>>
+2021-01-01 19:02:03,097:DEBUG:Event before-call.s3.PutObject: calling handler <function inject_api_version_header_if_needed at 0x00000080C51C31F8>
+2021-01-01 19:02:03,097:DEBUG:Making request for OperationModel(name=PutObject) with params: {'url_path': '/imageupload9/output1.jpg', 'query_string': {}, 'method': 'PUT', 'headers': {'User-Agent': 'Boto3/1.16.47 Python/3.7.9 Windows/8.1 Botocore/1.19.47', 'Content-MD5': 'CxL4pRwo36gqUBGXJayzJA==', 'Expect': '100-continue'}, 'body': <s3transfer.utils.ReadFileChunk object at 0x00000080C33FB248>, 'url': 'https://s3.amazonaws.com/imageupload9/output1.jpg', 'context': {'client_region': 'us-east-1', 'client_config': <botocore.config.Config object at 0x00000080C6225B08>, 'has_streaming_input': True, 'auth_type': None, 'signing': {'bucket': 'imageupload9'}}}
+2021-01-01 19:02:03,098:DEBUG:Event request-created.s3.PutObject: calling handler <function signal_not_transferring at 0x00000080C61ABEE8>
+2021-01-01 19:02:03,099:DEBUG:Event request-created.s3.PutObject: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x00000080C6225AC8>>
+2021-01-01 19:02:03,100:DEBUG:Event choose-signer.s3.PutObject: calling handler <bound method ClientCreator._default_s3_presign_to_sigv2 of <botocore.client.ClientCreator object at 0x00000080C58B3188>>
+2021-01-01 19:02:03,100:DEBUG:Event choose-signer.s3.PutObject: calling handler <function set_operation_specific_signer at 0x00000080C41EA828>
+2021-01-01 19:02:03,102:DEBUG:Event before-sign.s3.PutObject: calling handler <bound method S3EndpointSetter.set_endpoint of <botocore.utils.S3EndpointSetter object at 0x00000080C64FEC08>>
+2021-01-01 19:02:03,103:DEBUG:Defaulting to S3 virtual host style addressing with path style addressing fallback.
+2021-01-01 19:02:03,104:DEBUG:Checking for DNS compatible bucket for: https://s3.amazonaws.com/imageupload9/output1.jpg
+2021-01-01 19:02:03,104:DEBUG:URI updated to: https://imageupload9.s3.amazonaws.com/output1.jpg
+2021-01-01 19:02:03,105:DEBUG:Calculating signature using v4 auth.
+2021-01-01 19:02:03,105:DEBUG:CanonicalRequest:
+PUT
+/output1.jpg
+
+content-md5:CxL4pRwo36gqUBGXJayzJA==
+host:imageupload9.s3.amazonaws.com
+x-amz-content-sha256:UNSIGNED-PAYLOAD
+x-amz-date:20210101T133203Z
+
+content-md5;host;x-amz-content-sha256;x-amz-date
+UNSIGNED-PAYLOAD
+2021-01-01 19:02:03,105:DEBUG:StringToSign:
+AWS4-HMAC-SHA256
+20210101T133203Z
+20210101/us-east-1/s3/aws4_request
+02261e46386c5bc0f4dd21677a4955c40ff74f8b1df2272d9775499fb7e019e7
+2021-01-01 19:02:03,106:DEBUG:Signature:
+fe59d252aadb2022ec668fe6f40ced9c191fc7713c7d17ec69383eb1acd0e046
+2021-01-01 19:02:03,106:DEBUG:Event request-created.s3.PutObject: calling handler <function signal_transferring at 0x00000080C61BB048>
+2021-01-01 19:02:03,107:DEBUG:Sending http request: <AWSPreparedRequest stream_output=False, method=PUT, url=https://imageupload9.s3.amazonaws.com/output1.jpg, headers={'User-Agent': b'Boto3/1.16.47 Python/3.7.9 Windows/8.1 Botocore/1.19.47', 'Content-MD5': b'CxL4pRwo36gqUBGXJayzJA==', 'Expect': b'100-continue', 'X-Amz-Date': b'20210101T133203Z', 'X-Amz-Content-SHA256': b'UNSIGNED-PAYLOAD', 'Authorization': b'AWS4-HMAC-SHA256 Credential=AKIAI5GCUDFPSMHBNSWQ/20210101/us-east-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=fe59d252aadb2022ec668fe6f40ced9c191fc7713c7d17ec69383eb1acd0e046', 'Content-Length': '85676'}>
+2021-01-01 19:02:03,110:DEBUG:Starting new HTTPS connection (1): imageupload9.s3.amazonaws.com:443
+2021-01-01 19:02:08,251:DEBUG:Waiting for 100 Continue response.
+2021-01-01 19:02:08,539:DEBUG:100 Continue response seen, now sending request body.
+2021-01-01 19:02:09,686:DEBUG:https://imageupload9.s3.amazonaws.com:443 "PUT /output1.jpg HTTP/1.1" 200 0
+2021-01-01 19:02:09,690:DEBUG:Response headers: {'x-amz-id-2': 'lTNM+MbgY92Anw1rmLb44ELKBxsTW3qoZlzQScXL9HcwNuTPh7A1/HvsQNrTTHctWWf2TcCLBlc=', 'x-amz-request-id': 'B63D5FBD2D7F2594', 'Date': 'Fri, 01 Jan 2021 13:32:05 GMT', 'ETag': '"0b12f8a51c28dfa82a50119725acb324"', 'Content-Length': '0', 'Server': 'AmazonS3'}
+2021-01-01 19:02:09,690:DEBUG:Response body:
+b''
+2021-01-01 19:02:09,691:DEBUG:Event needs-retry.s3.PutObject: calling handler <botocore.retryhandler.RetryHandler object at 0x00000080C623BEC8>
+2021-01-01 19:02:09,691:DEBUG:No retry needed.
+2021-01-01 19:02:09,692:DEBUG:Event needs-retry.s3.PutObject: calling handler <bound method S3RegionRedirector.redirect_from_error of <botocore.utils.S3RegionRedirector object at 0x00000080C623B808>>
+2021-01-01 19:02:09,692:DEBUG:Releasing acquire 0/None
+2021-01-01 19:02:09,698:INFO:127.0.0.1 - - [01/Jan/2021 19:02:09] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-01 19:10:51,620:INFO: * Detected change in 'C:\\iNeuron\\Internship\\Apparel_Detection\\clientApp.py', reloading
+2021-01-01 19:11:03,029:INFO: * Restarting with stat
+2021-01-01 19:11:06,137:WARNING: * Debugger is active!
+2021-01-01 19:11:06,150:INFO: * Debugger PIN: 174-931-775
+2021-01-01 19:11:06,160:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 19:18:38,048:INFO: * Detected change in 'C:\\iNeuron\\Internship\\Apparel_Detection\\clientApp.py', reloading
+2021-01-01 19:18:38,665:INFO: * Restarting with stat
+2021-01-01 19:18:41,784:WARNING: * Debugger is active!
+2021-01-01 19:18:41,796:INFO: * Debugger PIN: 174-931-775
+2021-01-01 19:18:41,807:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 19:24:40,111:INFO: * Restarting with stat
+2021-01-01 19:24:43,903:WARNING: * Debugger is active!
+2021-01-01 19:24:43,922:INFO: * Debugger PIN: 174-931-775
+2021-01-01 19:24:43,933:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-01 19:24:52,769:INFO:127.0.0.1 - - [01/Jan/2021 19:24:52] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-01 19:25:09,632:INFO:Using CPU
+2021-01-01 19:25:09,632:INFO:
+2021-01-01 19:25:10,295:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-01 19:25:11,230:DEBUG:Was able to return the labeled image succesfuly
+2021-01-01 19:25:11,334:DEBUG:Saved to db succesfuly with record no :25
+2021-01-01 19:25:11,335:INFO:127.0.0.1 - - [01/Jan/2021 19:25:11] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-03 13:20:15,508:INFO: * Restarting with stat
+2021-01-03 13:20:19,924:WARNING: * Debugger is active!
+2021-01-03 13:20:19,987:INFO: * Debugger PIN: 174-931-775
+2021-01-03 13:20:20,028:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-03 13:20:33,866:INFO:127.0.0.1 - - [03/Jan/2021 13:20:33] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-03 13:20:43,057:INFO:Using CPU
+2021-01-03 13:20:43,057:INFO:
+2021-01-03 13:20:44,673:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-03 13:20:46,416:DEBUG:Was able to return the labeled image succesfuly
+2021-01-03 13:20:47,337:DEBUG:Saved to db succesfuly with record no :26
+2021-01-03 13:20:47,340:INFO:127.0.0.1 - - [03/Jan/2021 13:20:47] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-04 06:13:03,464:INFO: * Restarting with stat
+2021-01-04 06:13:08,106:WARNING: * Debugger is active!
+2021-01-04 06:13:08,172:INFO: * Debugger PIN: 174-931-775
+2021-01-04 06:13:08,210:INFO: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-01-04 06:15:20,716:INFO:127.0.0.1 - - [04/Jan/2021 06:15:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-04 06:15:28,209:INFO:Using CPU
+2021-01-04 06:15:28,210:INFO:
+2021-01-04 06:15:31,942:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 06:15:33,765:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 06:15:33,892:DEBUG:Saved to db succesfuly with record no :26
+2021-01-04 06:15:33,893:INFO:127.0.0.1 - - [04/Jan/2021 06:15:33] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-04 06:17:31,261:INFO:Using CPU
+2021-01-04 06:17:31,261:INFO:
+2021-01-04 06:17:31,563:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 06:17:32,228:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 06:17:32,235:DEBUG:Saved to db succesfuly with record no :27
+2021-01-04 06:17:32,237:INFO:127.0.0.1 - - [04/Jan/2021 06:17:32] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-01-04 07:09:19,097:DEBUG:Using selector: SelectSelector
+2021-01-04 07:09:19,445:INFO:Running on http://127.0.0.1:8000 (CTRL + C to quit)
+2021-01-04 07:09:37,336:ERROR:'method' object is not subscriptable
+2021-01-04 07:10:26,747:ERROR:'method' object is not subscriptable
+2021-01-04 09:29:19,077:DEBUG:Using selector: SelectSelector
+2021-01-04 09:29:19,338:INFO:Running on http://127.0.0.1:8000 (CTRL + C to quit)
+2021-01-04 09:29:29,644:ERROR:'method' object is not subscriptable
+2021-01-04 09:33:51,516:DEBUG:Using selector: SelectSelector
+2021-01-04 09:33:51,843:INFO:Running on http://127.0.0.1:8000 (CTRL + C to quit)
+2021-01-04 09:34:52,555:DEBUG:Using selector: SelectSelector
+2021-01-04 09:34:52,844:INFO:Running on http://127.0.0.1:8000 (CTRL + C to quit)
+2021-01-04 09:36:40,974:DEBUG:Using selector: SelectSelector
+2021-01-04 09:36:41,279:INFO:Running on http://127.0.0.1:8000 (CTRL + C to quit)
+2021-01-04 09:36:55,542:DEBUG:Using selector: SelectSelector
+2021-01-04 09:36:55,864:INFO:Running on http://127.0.0.1:8000 (CTRL + C to quit)
+2021-01-04 09:37:58,772:INFO:Using CPU
+2021-01-04 09:37:58,772:INFO:
+2021-01-04 09:37:59,625:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 09:38:00,683:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 09:38:00,688:ERROR:name 'image' is not defined
+2021-01-04 09:38:54,880:DEBUG:Using selector: SelectSelector
+2021-01-04 09:38:55,191:INFO:Running on http://127.0.0.1:8000 (CTRL + C to quit)
+2021-01-04 09:39:07,711:INFO:Using CPU
+2021-01-04 09:39:07,711:INFO:
+2021-01-04 09:39:08,067:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 09:39:08,786:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 09:39:08,811:DEBUG:Saved to db succesfuly with record no :28
+2021-01-04 09:39:48,635:INFO:Using CPU
+2021-01-04 09:39:48,635:INFO:
+2021-01-04 09:39:48,956:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 09:39:49,622:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 09:39:49,645:DEBUG:Saved to db succesfuly with record no :29
+2021-01-04 10:03:46,062:INFO:Started server process [17236]
+2021-01-04 10:03:46,063:INFO:Waiting for application startup.
+2021-01-04 10:03:46,064:INFO:Application startup complete.
+2021-01-04 10:04:31,920:INFO:Using CPU
+2021-01-04 10:04:31,921:INFO:
+2021-01-04 10:04:32,515:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 10:04:33,912:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 10:04:33,926:DEBUG:Saved to db succesfuly with record no :30
+2021-01-04 10:05:10,351:INFO:Shutting down
+2021-01-04 10:05:10,452:INFO:Waiting for application shutdown.
+2021-01-04 10:05:10,453:INFO:Application shutdown complete.
+2021-01-04 10:05:10,453:INFO:Finished server process [17236]
+2021-01-04 10:27:40,852:INFO:Started server process [10044]
+2021-01-04 10:27:40,854:INFO:Waiting for application startup.
+2021-01-04 10:27:40,855:INFO:Application startup complete.
+2021-01-04 10:28:19,055:INFO:Using CPU
+2021-01-04 10:28:19,055:INFO:
+2021-01-04 10:28:19,594:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 10:28:20,814:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 10:28:20,830:DEBUG:Saved to db succesfuly with record no :31
+2021-01-04 10:34:31,669:INFO:Shutting down
+2021-01-04 10:34:31,771:INFO:Waiting for application shutdown.
+2021-01-04 10:34:31,771:INFO:Application shutdown complete.
+2021-01-04 10:34:31,772:INFO:Finished server process [10044]
+2021-01-04 10:40:44,286:INFO:Started server process [16364]
+2021-01-04 10:40:44,287:INFO:Waiting for application startup.
+2021-01-04 10:40:44,288:INFO:Application startup complete.
+2021-01-04 10:41:12,987:INFO:Using CPU
+2021-01-04 10:41:12,987:INFO:
+2021-01-04 10:41:13,327:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 10:41:14,131:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 10:41:14,141:DEBUG:Saved to db succesfuly with record no :32
+2021-01-04 10:43:34,719:INFO:Started server process [17204]
+2021-01-04 10:43:34,720:INFO:Waiting for application startup.
+2021-01-04 10:43:34,721:INFO:Application startup complete.
+2021-01-04 10:43:34,752:INFO:Using CPU
+2021-01-04 10:43:34,752:INFO:
+2021-01-04 10:43:35,206:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 10:43:36,134:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 10:43:36,144:DEBUG:Saved to db succesfuly with record no :33
+2021-01-04 10:43:48,872:INFO:Using CPU
+2021-01-04 10:43:48,872:INFO:
+2021-01-04 10:43:49,204:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 10:43:49,901:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 10:43:49,909:DEBUG:Saved to db succesfuly with record no :34
+2021-01-04 10:53:00,221:INFO:Started server process [5236]
+2021-01-04 10:53:00,222:INFO:Waiting for application startup.
+2021-01-04 10:53:00,223:INFO:Application startup complete.
+2021-01-04 11:02:35,789:INFO:Started server process [1124]
+2021-01-04 11:02:35,790:INFO:Waiting for application startup.
+2021-01-04 11:02:35,805:INFO:Application startup complete.
+2021-01-04 11:02:43,345:INFO:Shutting down
+2021-01-04 11:02:43,447:INFO:Waiting for application shutdown.
+2021-01-04 11:02:43,448:INFO:Application shutdown complete.
+2021-01-04 11:02:43,448:INFO:Finished server process [1124]
+2021-01-04 12:38:13,021:INFO:Started server process [16784]
+2021-01-04 12:38:13,023:INFO:Waiting for application startup.
+2021-01-04 12:38:13,034:INFO:Application startup complete.
+2021-01-04 12:39:10,622:INFO:Using CPU
+2021-01-04 12:39:10,622:INFO:
+2021-01-04 12:39:10,995:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 12:39:11,771:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 12:39:11,781:DEBUG:Saved to db succesfuly with record no :35
+2021-01-04 12:43:04,458:INFO:Using CPU
+2021-01-04 12:43:04,458:INFO:
+2021-01-04 12:43:04,797:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 12:43:05,459:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 12:43:05,467:DEBUG:Saved to db succesfuly with record no :36
+2021-01-04 12:43:35,113:INFO:Using CPU
+2021-01-04 12:43:35,113:INFO:
+2021-01-04 12:43:35,422:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 12:43:36,115:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 12:43:36,122:DEBUG:Saved to db succesfuly with record no :37
+2021-01-04 12:44:00,474:INFO:Using CPU
+2021-01-04 12:44:00,474:INFO:
+2021-01-04 12:44:00,828:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 12:44:01,547:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 12:44:01,570:DEBUG:Saved to db succesfuly with record no :38
+2021-01-04 12:48:00,476:INFO:Using CPU
+2021-01-04 12:48:00,477:INFO:
+2021-01-04 12:48:00,836:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 12:48:01,577:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 12:48:01,583:DEBUG:Saved to db succesfuly with record no :39
+2021-01-04 12:49:00,978:INFO:Using CPU
+2021-01-04 12:49:00,978:INFO:
+2021-01-04 12:49:01,311:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 12:49:02,026:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 12:49:02,032:DEBUG:Saved to db succesfuly with record no :40
+2021-01-04 12:51:37,353:INFO:Using CPU
+2021-01-04 12:51:37,353:INFO:
+2021-01-04 12:51:37,694:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 12:51:38,401:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 12:51:38,597:DEBUG:Saved to db succesfuly with record no :41
+2021-01-04 13:05:52,337:INFO:Using CPU
+2021-01-04 13:05:52,337:INFO:
+2021-01-04 13:05:52,671:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 13:05:53,384:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 13:05:53,479:DEBUG:Saved to db succesfuly with record no :42
+2021-01-04 13:06:34,226:INFO:Using CPU
+2021-01-04 13:06:34,226:INFO:
+2021-01-04 13:06:34,552:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 13:06:35,274:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 13:06:35,280:DEBUG:Saved to db succesfuly with record no :43
+2021-01-04 13:11:30,926:INFO:Shutting down
+2021-01-04 13:11:31,027:INFO:Waiting for application shutdown.
+2021-01-04 13:11:31,027:INFO:Application shutdown complete.
+2021-01-04 13:11:31,027:INFO:Finished server process [16784]
+2021-01-04 13:21:45,636:INFO:Started server process [15568]
+2021-01-04 13:21:45,637:INFO:Waiting for application startup.
+2021-01-04 13:21:45,638:INFO:Application startup complete.
+2021-01-04 13:22:11,807:INFO:Using CPU
+2021-01-04 13:22:11,807:INFO:
+2021-01-04 13:22:12,209:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-04 13:22:12,976:DEBUG:Was able to return the labeled image succesfuly
+2021-01-04 13:22:12,986:DEBUG:Saved to db succesfuly with record no :44
+2021-01-04 13:22:25,563:INFO:Shutting down
+2021-01-04 13:22:25,666:INFO:Waiting for application shutdown.
+2021-01-04 13:22:25,666:INFO:Application shutdown complete.
+2021-01-04 13:22:25,667:INFO:Finished server process [15568]
+2021-01-06 14:14:18,450:INFO:Started server process [14996]
+2021-01-06 14:14:18,483:INFO:Waiting for application startup.
+2021-01-06 14:14:18,484:INFO:Application startup complete.
+2021-01-06 14:14:18,485:INFO:Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-01-06 14:16:38,943:INFO:Using CPU
+2021-01-06 14:16:38,943:INFO:
+2021-01-06 14:16:40,271:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-06 14:16:41,784:DEBUG:Was able to return the labeled image succesfuly
+2021-01-06 14:16:42,877:DEBUG:Saved to db succesfuly with record no :45
+2021-01-06 14:16:42,879:DEBUG:Changing event name from creating-client-class.iot-data to creating-client-class.iot-data-plane
+2021-01-06 14:16:42,881:DEBUG:Changing event name from before-call.apigateway to before-call.api-gateway
+2021-01-06 14:16:42,882:DEBUG:Changing event name from request-created.machinelearning.Predict to request-created.machine-learning.Predict
+2021-01-06 14:16:42,887:DEBUG:Changing event name from before-parameter-build.autoscaling.CreateLaunchConfiguration to before-parameter-build.auto-scaling.CreateLaunchConfiguration
+2021-01-06 14:16:42,888:DEBUG:Changing event name from before-parameter-build.route53 to before-parameter-build.route-53
+2021-01-06 14:16:42,889:DEBUG:Changing event name from request-created.cloudsearchdomain.Search to request-created.cloudsearch-domain.Search
+2021-01-06 14:16:42,890:DEBUG:Changing event name from docs.*.autoscaling.CreateLaunchConfiguration.complete-section to docs.*.auto-scaling.CreateLaunchConfiguration.complete-section
+2021-01-06 14:16:42,895:DEBUG:Changing event name from before-parameter-build.logs.CreateExportTask to before-parameter-build.cloudwatch-logs.CreateExportTask
+2021-01-06 14:16:42,896:DEBUG:Changing event name from docs.*.logs.CreateExportTask.complete-section to docs.*.cloudwatch-logs.CreateExportTask.complete-section
+2021-01-06 14:16:42,896:DEBUG:Changing event name from before-parameter-build.cloudsearchdomain.Search to before-parameter-build.cloudsearch-domain.Search
+2021-01-06 14:16:42,896:DEBUG:Changing event name from docs.*.cloudsearchdomain.Search.complete-section to docs.*.cloudsearch-domain.Search.complete-section
+2021-01-06 14:16:42,944:DEBUG:Loading JSON file: c:\users\chalumuri\anaconda3\envs\factory_fire\lib\site-packages\botocore\data\endpoints.json
+2021-01-06 14:16:42,955:DEBUG:Event choose-service-name: calling handler <function handle_service_name_alias at 0x00000094FF4EE4C8>
+2021-01-06 14:16:43,303:DEBUG:Loading JSON file: c:\users\chalumuri\anaconda3\envs\factory_fire\lib\site-packages\botocore\data\s3\2006-03-01\service-2.json
+2021-01-06 14:16:43,361:DEBUG:Event creating-client-class.s3: calling handler <function add_generate_presigned_post at 0x00000094FF49D948>
+2021-01-06 14:16:43,362:DEBUG:Event creating-client-class.s3: calling handler <function lazy_call.<locals>._handler at 0x00000094F43D58B8>
+2021-01-06 14:16:43,779:DEBUG:Event creating-client-class.s3: calling handler <function add_generate_presigned_url at 0x00000094FF49D708>
+2021-01-06 14:16:43,791:DEBUG:Setting s3 timeout as (60, 60)
+2021-01-06 14:16:43,902:DEBUG:Loading JSON file: c:\users\chalumuri\anaconda3\envs\factory_fire\lib\site-packages\botocore\data\_retry.json
+2021-01-06 14:16:43,907:DEBUG:Registering retry handlers for service: s3
+2021-01-06 14:16:43,915:DEBUG:Acquiring 0
+2021-01-06 14:16:43,917:DEBUG:UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480848FC8>}) about to wait for the following futures []
+2021-01-06 14:16:43,918:DEBUG:UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480848FC8>}) done waiting for dependent futures
+2021-01-06 14:16:43,920:DEBUG:Executing task UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480848FC8>}) with kwargs {'client': <botocore.client.S3 object at 0x00000094807AFE88>, 'config': <boto3.s3.transfer.TransferConfig object at 0x0000009480848A08>, 'osutil': <s3transfer.utils.OSUtils object at 0x00000094808489C8>, 'request_executor': <s3transfer.futures.BoundedExecutor object at 0x0000009480848B08>, 'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480848FC8>}
+2021-01-06 14:16:43,921:DEBUG:Submitting task PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) to executor <s3transfer.futures.BoundedExecutor object at 0x0000009480848B08> for transfer request: 0.
+2021-01-06 14:16:43,922:DEBUG:Acquiring 0
+2021-01-06 14:16:43,923:DEBUG:PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) about to wait for the following futures []
+2021-01-06 14:16:43,924:DEBUG:Releasing acquire 0/None
+2021-01-06 14:16:43,924:DEBUG:PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) done waiting for dependent futures
+2021-01-06 14:16:43,925:DEBUG:Executing task PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) with kwargs {'client': <botocore.client.S3 object at 0x00000094807AFE88>, 'fileobj': <s3transfer.utils.ReadFileChunk object at 0x0000009480852248>, 'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}
+2021-01-06 14:16:43,927:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function validate_ascii_metadata at 0x00000094FF515B88>
+2021-01-06 14:16:43,927:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function sse_md5 at 0x00000094FF50DF78>
+2021-01-06 14:16:43,928:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function convert_body_to_file_like_object at 0x00000094FF5164C8>
+2021-01-06 14:16:43,928:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function validate_bucket_name at 0x00000094FF50DEE8>
+2021-01-06 14:16:43,928:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <bound method S3RegionRedirector.redirect_from_cache of <botocore.utils.S3RegionRedirector object at 0x0000009480840D48>>
+2021-01-06 14:16:43,928:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <bound method S3ArnParamHandler.handle_arn of <botocore.utils.S3ArnParamHandler object at 0x00000094808340C8>>
+2021-01-06 14:16:43,929:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function generate_idempotent_uuid at 0x00000094FF50DD38>
+2021-01-06 14:16:43,930:DEBUG:Event before-call.s3.PutObject: calling handler <function conditionally_calculate_md5 at 0x00000094FF38DB88>
+2021-01-06 14:16:43,949:DEBUG:Event before-call.s3.PutObject: calling handler <function add_expect_header at 0x00000094FF515288>
+2021-01-06 14:16:43,950:DEBUG:Adding expect 100 continue header to request.
+2021-01-06 14:16:43,950:DEBUG:Event before-call.s3.PutObject: calling handler <bound method S3RegionRedirector.set_request_url of <botocore.utils.S3RegionRedirector object at 0x0000009480840D48>>
+2021-01-06 14:16:43,950:DEBUG:Event before-call.s3.PutObject: calling handler <function inject_api_version_header_if_needed at 0x00000094FF5165E8>
+2021-01-06 14:16:43,950:DEBUG:Making request for OperationModel(name=PutObject) with params: {'url_path': '/imageupload9/output1.jpg', 'query_string': {}, 'method': 'PUT', 'headers': {'User-Agent': 'Boto3/1.16.47 Python/3.7.9 Windows/8.1 Botocore/1.19.47', 'Content-MD5': 'xxAVuK6GFwndhcS+/ebGHg==', 'Expect': '100-continue'}, 'body': <s3transfer.utils.ReadFileChunk object at 0x0000009480852248>, 'url': 'https://s3.amazonaws.com/imageupload9/output1.jpg', 'context': {'client_region': 'us-east-1', 'client_config': <botocore.config.Config object at 0x000000948082BF48>, 'has_streaming_input': True, 'auth_type': None, 'signing': {'bucket': 'imageupload9'}}}
+2021-01-06 14:16:43,954:DEBUG:Event request-created.s3.PutObject: calling handler <function signal_not_transferring at 0x00000094807B91F8>
+2021-01-06 14:16:43,955:DEBUG:Event request-created.s3.PutObject: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x000000948082BF08>>
+2021-01-06 14:16:43,956:DEBUG:Event choose-signer.s3.PutObject: calling handler <bound method ClientCreator._default_s3_presign_to_sigv2 of <botocore.client.ClientCreator object at 0x0000009480D114C8>>
+2021-01-06 14:16:43,956:DEBUG:Event choose-signer.s3.PutObject: calling handler <function set_operation_specific_signer at 0x00000094FF50DC18>
+2021-01-06 14:16:43,957:DEBUG:Event before-sign.s3.PutObject: calling handler <bound method S3EndpointSetter.set_endpoint of <botocore.utils.S3EndpointSetter object at 0x0000009480848848>>
+2021-01-06 14:16:43,957:DEBUG:Defaulting to S3 virtual host style addressing with path style addressing fallback.
+2021-01-06 14:16:43,957:DEBUG:Checking for DNS compatible bucket for: https://s3.amazonaws.com/imageupload9/output1.jpg
+2021-01-06 14:16:43,957:DEBUG:URI updated to: https://imageupload9.s3.amazonaws.com/output1.jpg
+2021-01-06 14:16:43,958:DEBUG:Calculating signature using v4 auth.
+2021-01-06 14:16:43,958:DEBUG:CanonicalRequest:
+PUT
+/output1.jpg
+
+content-md5:xxAVuK6GFwndhcS+/ebGHg==
+host:imageupload9.s3.amazonaws.com
+x-amz-content-sha256:UNSIGNED-PAYLOAD
+x-amz-date:20210106T084643Z
+
+content-md5;host;x-amz-content-sha256;x-amz-date
+UNSIGNED-PAYLOAD
+2021-01-06 14:16:43,959:DEBUG:StringToSign:
+AWS4-HMAC-SHA256
+20210106T084643Z
+20210106/us-east-1/s3/aws4_request
+8af160bb79442ef413da95e199dd5b1d38f5edad9dca65bb4aa9c8fc1009ce1c
+2021-01-06 14:16:43,959:DEBUG:Signature:
+afebd4b376cef0874ce091266ea2b5a9557b77caa90ff06b6796f2f9c6591c5c
+2021-01-06 14:16:43,960:DEBUG:Event request-created.s3.PutObject: calling handler <function signal_transferring at 0x00000094807C4318>
+2021-01-06 14:16:43,961:DEBUG:Sending http request: <AWSPreparedRequest stream_output=False, method=PUT, url=https://imageupload9.s3.amazonaws.com/output1.jpg, headers={'User-Agent': b'Boto3/1.16.47 Python/3.7.9 Windows/8.1 Botocore/1.19.47', 'Content-MD5': b'xxAVuK6GFwndhcS+/ebGHg==', 'Expect': b'100-continue', 'X-Amz-Date': b'20210106T084643Z', 'X-Amz-Content-SHA256': b'UNSIGNED-PAYLOAD', 'Authorization': b'AWS4-HMAC-SHA256 Credential=AKIAI5GCUDFPSMHBNSWQ/20210106/us-east-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=afebd4b376cef0874ce091266ea2b5a9557b77caa90ff06b6796f2f9c6591c5c', 'Content-Length': '66915'}>
+2021-01-06 14:16:43,964:DEBUG:Starting new HTTPS connection (1): imageupload9.s3.amazonaws.com:443
+2021-01-06 14:16:45,261:DEBUG:Waiting for 100 Continue response.
+2021-01-06 14:16:45,530:DEBUG:100 Continue response seen, now sending request body.
+2021-01-06 14:16:46,676:DEBUG:https://imageupload9.s3.amazonaws.com:443 "PUT /output1.jpg HTTP/1.1" 200 0
+2021-01-06 14:16:46,676:DEBUG:Response headers: {'x-amz-id-2': 'zn4+Nb0g3xo3YZSUbgm5c3JF0iA7aWTa5E/oacQAmCVKBqFe4hc0fB7+dvvo3VGlc32clCexMVs=', 'x-amz-request-id': '7111EE32DE229686', 'Date': 'Wed, 06 Jan 2021 08:46:41 GMT', 'ETag': '"c71015b8ae861709dd85c4befde6c61e"', 'Content-Length': '0', 'Server': 'AmazonS3'}
+2021-01-06 14:16:46,677:DEBUG:Response body:
+b''
+2021-01-06 14:16:46,677:DEBUG:Event needs-retry.s3.PutObject: calling handler <botocore.retryhandler.RetryHandler object at 0x0000009480848448>
+2021-01-06 14:16:46,677:DEBUG:No retry needed.
+2021-01-06 14:16:46,677:DEBUG:Event needs-retry.s3.PutObject: calling handler <bound method S3RegionRedirector.redirect_from_error of <botocore.utils.S3RegionRedirector object at 0x0000009480840D48>>
+2021-01-06 14:16:46,678:DEBUG:Releasing acquire 0/None
+2021-01-06 14:17:32,129:INFO:Using CPU
+2021-01-06 14:17:32,130:INFO:
+2021-01-06 14:17:32,437:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-06 14:17:33,081:DEBUG:Was able to return the labeled image succesfuly
+2021-01-06 14:17:33,913:DEBUG:Saved to db succesfuly with record no :46
+2021-01-06 14:17:33,915:DEBUG:Event choose-service-name: calling handler <function handle_service_name_alias at 0x00000094FF4EE4C8>
+2021-01-06 14:17:33,920:DEBUG:Event creating-client-class.s3: calling handler <function add_generate_presigned_post at 0x00000094FF49D948>
+2021-01-06 14:17:33,920:DEBUG:Event creating-client-class.s3: calling handler <function lazy_call.<locals>._handler at 0x00000094F43D58B8>
+2021-01-06 14:17:33,920:DEBUG:Event creating-client-class.s3: calling handler <function add_generate_presigned_url at 0x00000094FF49D708>
+2021-01-06 14:17:33,926:DEBUG:Setting s3 timeout as (60, 60)
+2021-01-06 14:17:33,930:DEBUG:Registering retry handlers for service: s3
+2021-01-06 14:17:33,937:DEBUG:Acquiring 0
+2021-01-06 14:17:33,938:DEBUG:UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480809B08>}) about to wait for the following futures []
+2021-01-06 14:17:33,938:DEBUG:UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480809B08>}) done waiting for dependent futures
+2021-01-06 14:17:33,939:DEBUG:Executing task UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480809B08>}) with kwargs {'client': <botocore.client.S3 object at 0x00000094847BF248>, 'config': <boto3.s3.transfer.TransferConfig object at 0x000000948081D188>, 'osutil': <s3transfer.utils.OSUtils object at 0x000000948081D208>, 'request_executor': <s3transfer.futures.BoundedExecutor object at 0x000000948081D4C8>, 'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480809B08>}
+2021-01-06 14:17:33,939:DEBUG:Submitting task PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) to executor <s3transfer.futures.BoundedExecutor object at 0x000000948081D4C8> for transfer request: 0.
+2021-01-06 14:17:33,940:DEBUG:Acquiring 0
+2021-01-06 14:17:33,941:DEBUG:PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) about to wait for the following futures []
+2021-01-06 14:17:33,941:DEBUG:Releasing acquire 0/None
+2021-01-06 14:17:33,942:DEBUG:PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) done waiting for dependent futures
+2021-01-06 14:17:33,943:DEBUG:Executing task PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) with kwargs {'client': <botocore.client.S3 object at 0x00000094847BF248>, 'fileobj': <s3transfer.utils.ReadFileChunk object at 0x0000009480A82688>, 'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}
+2021-01-06 14:17:33,945:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function validate_ascii_metadata at 0x00000094FF515B88>
+2021-01-06 14:17:33,946:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function sse_md5 at 0x00000094FF50DF78>
+2021-01-06 14:17:33,946:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function convert_body_to_file_like_object at 0x00000094FF5164C8>
+2021-01-06 14:17:33,946:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function validate_bucket_name at 0x00000094FF50DEE8>
+2021-01-06 14:17:33,947:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <bound method S3RegionRedirector.redirect_from_cache of <botocore.utils.S3RegionRedirector object at 0x0000009480818E08>>
+2021-01-06 14:17:33,947:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <bound method S3ArnParamHandler.handle_arn of <botocore.utils.S3ArnParamHandler object at 0x0000009480818408>>
+2021-01-06 14:17:33,947:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function generate_idempotent_uuid at 0x00000094FF50DD38>
+2021-01-06 14:17:33,948:DEBUG:Event before-call.s3.PutObject: calling handler <function conditionally_calculate_md5 at 0x00000094FF38DB88>
+2021-01-06 14:17:33,950:DEBUG:Event before-call.s3.PutObject: calling handler <function add_expect_header at 0x00000094FF515288>
+2021-01-06 14:17:33,950:DEBUG:Adding expect 100 continue header to request.
+2021-01-06 14:17:33,951:DEBUG:Event before-call.s3.PutObject: calling handler <bound method S3RegionRedirector.set_request_url of <botocore.utils.S3RegionRedirector object at 0x0000009480818E08>>
+2021-01-06 14:17:33,951:DEBUG:Event before-call.s3.PutObject: calling handler <function inject_api_version_header_if_needed at 0x00000094FF5165E8>
+2021-01-06 14:17:33,951:DEBUG:Making request for OperationModel(name=PutObject) with params: {'url_path': '/imageupload9/output1.jpg', 'query_string': {}, 'method': 'PUT', 'headers': {'User-Agent': 'Boto3/1.16.47 Python/3.7.9 Windows/8.1 Botocore/1.19.47', 'Content-MD5': '/Vu5JvYFG4Ia9lhnmK1Ynw==', 'Expect': '100-continue'}, 'body': <s3transfer.utils.ReadFileChunk object at 0x0000009480A82688>, 'url': 'https://s3.amazonaws.com/imageupload9/output1.jpg', 'context': {'client_region': 'us-east-1', 'client_config': <botocore.config.Config object at 0x0000009480852648>, 'has_streaming_input': True, 'auth_type': None, 'signing': {'bucket': 'imageupload9'}}}
+2021-01-06 14:17:33,952:DEBUG:Event request-created.s3.PutObject: calling handler <function signal_not_transferring at 0x00000094807B91F8>
+2021-01-06 14:17:33,953:DEBUG:Event request-created.s3.PutObject: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x0000009480852288>>
+2021-01-06 14:17:33,954:DEBUG:Event choose-signer.s3.PutObject: calling handler <bound method ClientCreator._default_s3_presign_to_sigv2 of <botocore.client.ClientCreator object at 0x000000948480B588>>
+2021-01-06 14:17:33,954:DEBUG:Event choose-signer.s3.PutObject: calling handler <function set_operation_specific_signer at 0x00000094FF50DC18>
+2021-01-06 14:17:33,954:DEBUG:Event before-sign.s3.PutObject: calling handler <bound method S3EndpointSetter.set_endpoint of <botocore.utils.S3EndpointSetter object at 0x000000948081D788>>
+2021-01-06 14:17:33,955:DEBUG:Defaulting to S3 virtual host style addressing with path style addressing fallback.
+2021-01-06 14:17:33,955:DEBUG:Checking for DNS compatible bucket for: https://s3.amazonaws.com/imageupload9/output1.jpg
+2021-01-06 14:17:33,955:DEBUG:URI updated to: https://imageupload9.s3.amazonaws.com/output1.jpg
+2021-01-06 14:17:33,956:DEBUG:Calculating signature using v4 auth.
+2021-01-06 14:17:33,956:DEBUG:CanonicalRequest:
+PUT
+/output1.jpg
+
+content-md5:/Vu5JvYFG4Ia9lhnmK1Ynw==
+host:imageupload9.s3.amazonaws.com
+x-amz-content-sha256:UNSIGNED-PAYLOAD
+x-amz-date:20210106T084733Z
+
+content-md5;host;x-amz-content-sha256;x-amz-date
+UNSIGNED-PAYLOAD
+2021-01-06 14:17:33,957:DEBUG:StringToSign:
+AWS4-HMAC-SHA256
+20210106T084733Z
+20210106/us-east-1/s3/aws4_request
+8aaf3323f6e2cea4e54ca60e50bda3525dd56b377ee2fbd3ec8e61cb344c171c
+2021-01-06 14:17:33,957:DEBUG:Signature:
+2d94647a0af76f9d387a6fee89c7c9ce55277f1d09bc07e877c206b42e84e662
+2021-01-06 14:17:33,957:DEBUG:Event request-created.s3.PutObject: calling handler <function signal_transferring at 0x00000094807C4318>
+2021-01-06 14:17:33,958:DEBUG:Sending http request: <AWSPreparedRequest stream_output=False, method=PUT, url=https://imageupload9.s3.amazonaws.com/output1.jpg, headers={'User-Agent': b'Boto3/1.16.47 Python/3.7.9 Windows/8.1 Botocore/1.19.47', 'Content-MD5': b'/Vu5JvYFG4Ia9lhnmK1Ynw==', 'Expect': b'100-continue', 'X-Amz-Date': b'20210106T084733Z', 'X-Amz-Content-SHA256': b'UNSIGNED-PAYLOAD', 'Authorization': b'AWS4-HMAC-SHA256 Credential=AKIAI5GCUDFPSMHBNSWQ/20210106/us-east-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=2d94647a0af76f9d387a6fee89c7c9ce55277f1d09bc07e877c206b42e84e662', 'Content-Length': '62670'}>
+2021-01-06 14:17:33,961:DEBUG:Starting new HTTPS connection (1): imageupload9.s3.amazonaws.com:443
+2021-01-06 14:17:34,722:DEBUG:Waiting for 100 Continue response.
+2021-01-06 14:17:34,981:DEBUG:100 Continue response seen, now sending request body.
+2021-01-06 14:17:35,968:DEBUG:https://imageupload9.s3.amazonaws.com:443 "PUT /output1.jpg HTTP/1.1" 200 0
+2021-01-06 14:17:35,969:DEBUG:Response headers: {'x-amz-id-2': '5TWvXRex3ehPAPGGSX6hFyriVsl8vbXyAPykV0LfraCch2hNnq7W5vfmVWLBm9TYIqvqEAI+2eg=', 'x-amz-request-id': '78141C9622763843', 'Date': 'Wed, 06 Jan 2021 08:47:30 GMT', 'ETag': '"fd5bb926f6051b821af6586798ad589f"', 'Content-Length': '0', 'Server': 'AmazonS3'}
+2021-01-06 14:17:35,970:DEBUG:Response body:
+b''
+2021-01-06 14:17:35,971:DEBUG:Event needs-retry.s3.PutObject: calling handler <botocore.retryhandler.RetryHandler object at 0x000000948081D708>
+2021-01-06 14:17:35,971:DEBUG:No retry needed.
+2021-01-06 14:17:35,972:DEBUG:Event needs-retry.s3.PutObject: calling handler <bound method S3RegionRedirector.redirect_from_error of <botocore.utils.S3RegionRedirector object at 0x0000009480818E08>>
+2021-01-06 14:17:35,973:DEBUG:Releasing acquire 0/None
+2021-01-06 14:19:04,608:INFO:Using CPU
+2021-01-06 14:19:04,608:INFO:
+2021-01-06 14:19:04,916:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-06 14:19:05,539:DEBUG:Was able to return the labeled image succesfuly
+2021-01-06 14:19:06,350:DEBUG:Saved to db succesfuly with record no :47
+2021-01-06 14:19:06,352:DEBUG:Event choose-service-name: calling handler <function handle_service_name_alias at 0x00000094FF4EE4C8>
+2021-01-06 14:19:06,372:DEBUG:Event creating-client-class.s3: calling handler <function add_generate_presigned_post at 0x00000094FF49D948>
+2021-01-06 14:19:06,373:DEBUG:Event creating-client-class.s3: calling handler <function lazy_call.<locals>._handler at 0x00000094F43D58B8>
+2021-01-06 14:19:06,373:DEBUG:Event creating-client-class.s3: calling handler <function add_generate_presigned_url at 0x00000094FF49D708>
+2021-01-06 14:19:06,380:DEBUG:Setting s3 timeout as (60, 60)
+2021-01-06 14:19:06,384:DEBUG:Registering retry handlers for service: s3
+2021-01-06 14:19:06,390:DEBUG:Acquiring 0
+2021-01-06 14:19:06,392:DEBUG:UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480EF9E48>}) about to wait for the following futures []
+2021-01-06 14:19:06,392:DEBUG:UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480EF9E48>}) done waiting for dependent futures
+2021-01-06 14:19:06,393:DEBUG:Executing task UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480EF9E48>}) with kwargs {'client': <botocore.client.S3 object at 0x0000009480BE53C8>, 'config': <boto3.s3.transfer.TransferConfig object at 0x0000009480F00308>, 'osutil': <s3transfer.utils.OSUtils object at 0x0000009480F006C8>, 'request_executor': <s3transfer.futures.BoundedExecutor object at 0x0000009480F00C88>, 'transfer_future': <s3transfer.futures.TransferFuture object at 0x0000009480EF9E48>}
+2021-01-06 14:19:06,393:DEBUG:Submitting task PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) to executor <s3transfer.futures.BoundedExecutor object at 0x0000009480F00C88> for transfer request: 0.
+2021-01-06 14:19:06,393:DEBUG:Acquiring 0
+2021-01-06 14:19:06,394:DEBUG:PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) about to wait for the following futures []
+2021-01-06 14:19:06,394:DEBUG:Releasing acquire 0/None
+2021-01-06 14:19:06,395:DEBUG:PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) done waiting for dependent futures
+2021-01-06 14:19:06,395:DEBUG:Executing task PutObjectTask(transfer_id=0, {'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}) with kwargs {'client': <botocore.client.S3 object at 0x0000009480BE53C8>, 'fileobj': <s3transfer.utils.ReadFileChunk object at 0x0000009480EF9C08>, 'bucket': 'imageupload9', 'key': 'output1.jpg', 'extra_args': {}}
+2021-01-06 14:19:06,396:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function validate_ascii_metadata at 0x00000094FF515B88>
+2021-01-06 14:19:06,396:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function sse_md5 at 0x00000094FF50DF78>
+2021-01-06 14:19:06,397:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function convert_body_to_file_like_object at 0x00000094FF5164C8>
+2021-01-06 14:19:06,397:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function validate_bucket_name at 0x00000094FF50DEE8>
+2021-01-06 14:19:06,397:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <bound method S3RegionRedirector.redirect_from_cache of <botocore.utils.S3RegionRedirector object at 0x0000009480BBAB08>>
+2021-01-06 14:19:06,397:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <bound method S3ArnParamHandler.handle_arn of <botocore.utils.S3ArnParamHandler object at 0x0000009480BBAC08>>
+2021-01-06 14:19:06,398:DEBUG:Event before-parameter-build.s3.PutObject: calling handler <function generate_idempotent_uuid at 0x00000094FF50DD38>
+2021-01-06 14:19:06,400:DEBUG:Event before-call.s3.PutObject: calling handler <function conditionally_calculate_md5 at 0x00000094FF38DB88>
+2021-01-06 14:19:06,402:DEBUG:Event before-call.s3.PutObject: calling handler <function add_expect_header at 0x00000094FF515288>
+2021-01-06 14:19:06,403:DEBUG:Adding expect 100 continue header to request.
+2021-01-06 14:19:06,403:DEBUG:Event before-call.s3.PutObject: calling handler <bound method S3RegionRedirector.set_request_url of <botocore.utils.S3RegionRedirector object at 0x0000009480BBAB08>>
+2021-01-06 14:19:06,403:DEBUG:Event before-call.s3.PutObject: calling handler <function inject_api_version_header_if_needed at 0x00000094FF5165E8>
+2021-01-06 14:19:06,403:DEBUG:Making request for OperationModel(name=PutObject) with params: {'url_path': '/imageupload9/output1.jpg', 'query_string': {}, 'method': 'PUT', 'headers': {'User-Agent': 'Boto3/1.16.47 Python/3.7.9 Windows/8.1 Botocore/1.19.47', 'Content-MD5': 'jhkC1IOeH96l+XqIPA/Qbg==', 'Expect': '100-continue'}, 'body': <s3transfer.utils.ReadFileChunk object at 0x0000009480EF9C08>, 'url': 'https://s3.amazonaws.com/imageupload9/output1.jpg', 'context': {'client_region': 'us-east-1', 'client_config': <botocore.config.Config object at 0x0000009480BC68C8>, 'has_streaming_input': True, 'auth_type': None, 'signing': {'bucket': 'imageupload9'}}}
+2021-01-06 14:19:06,405:DEBUG:Event request-created.s3.PutObject: calling handler <function signal_not_transferring at 0x00000094807B91F8>
+2021-01-06 14:19:06,405:DEBUG:Event request-created.s3.PutObject: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x0000009480BC6C48>>
+2021-01-06 14:19:06,406:DEBUG:Event choose-signer.s3.PutObject: calling handler <bound method ClientCreator._default_s3_presign_to_sigv2 of <botocore.client.ClientCreator object at 0x0000009480C96BC8>>
+2021-01-06 14:19:06,406:DEBUG:Event choose-signer.s3.PutObject: calling handler <function set_operation_specific_signer at 0x00000094FF50DC18>
+2021-01-06 14:19:06,407:DEBUG:Event before-sign.s3.PutObject: calling handler <bound method S3EndpointSetter.set_endpoint of <botocore.utils.S3EndpointSetter object at 0x0000009480F00FC8>>
+2021-01-06 14:19:06,407:DEBUG:Defaulting to S3 virtual host style addressing with path style addressing fallback.
+2021-01-06 14:19:06,408:DEBUG:Checking for DNS compatible bucket for: https://s3.amazonaws.com/imageupload9/output1.jpg
+2021-01-06 14:19:06,408:DEBUG:URI updated to: https://imageupload9.s3.amazonaws.com/output1.jpg
+2021-01-06 14:19:06,408:DEBUG:Calculating signature using v4 auth.
+2021-01-06 14:19:06,409:DEBUG:CanonicalRequest:
+PUT
+/output1.jpg
+
+content-md5:jhkC1IOeH96l+XqIPA/Qbg==
+host:imageupload9.s3.amazonaws.com
+x-amz-content-sha256:UNSIGNED-PAYLOAD
+x-amz-date:20210106T084906Z
+
+content-md5;host;x-amz-content-sha256;x-amz-date
+UNSIGNED-PAYLOAD
+2021-01-06 14:19:06,409:DEBUG:StringToSign:
+AWS4-HMAC-SHA256
+20210106T084906Z
+20210106/us-east-1/s3/aws4_request
+745eb7efb56ab93c9c9cae2def31ac7194e13a199fb3a110554f6a7a3c1af0f6
+2021-01-06 14:19:06,409:DEBUG:Signature:
+fe9e7f1fdcc2072c974d925d7cf9647406bedcb82f17bbae8d983d17b3d6eb4d
+2021-01-06 14:19:06,410:DEBUG:Event request-created.s3.PutObject: calling handler <function signal_transferring at 0x00000094807C4318>
+2021-01-06 14:19:06,410:DEBUG:Sending http request: <AWSPreparedRequest stream_output=False, method=PUT, url=https://imageupload9.s3.amazonaws.com/output1.jpg, headers={'User-Agent': b'Boto3/1.16.47 Python/3.7.9 Windows/8.1 Botocore/1.19.47', 'Content-MD5': b'jhkC1IOeH96l+XqIPA/Qbg==', 'Expect': b'100-continue', 'X-Amz-Date': b'20210106T084906Z', 'X-Amz-Content-SHA256': b'UNSIGNED-PAYLOAD', 'Authorization': b'AWS4-HMAC-SHA256 Credential=AKIAI5GCUDFPSMHBNSWQ/20210106/us-east-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=fe9e7f1fdcc2072c974d925d7cf9647406bedcb82f17bbae8d983d17b3d6eb4d', 'Content-Length': '103042'}>
+2021-01-06 14:19:06,411:DEBUG:Starting new HTTPS connection (1): imageupload9.s3.amazonaws.com:443
+2021-01-06 14:19:07,246:DEBUG:Waiting for 100 Continue response.
+2021-01-06 14:19:07,521:DEBUG:100 Continue response seen, now sending request body.
+2021-01-06 14:19:08,866:DEBUG:https://imageupload9.s3.amazonaws.com:443 "PUT /output1.jpg HTTP/1.1" 200 0
+2021-01-06 14:19:08,866:DEBUG:Response headers: {'x-amz-id-2': 'MoM+HI4VGrR7YnsPEp3cXCazYY07WheBi3GwHICuiobGyuUsNa0UtlAovVR6dM0zuTA69n5SJKM=', 'x-amz-request-id': '7A1E14B181D3EEFB', 'Date': 'Wed, 06 Jan 2021 08:49:03 GMT', 'ETag': '"8e1902d4839e1fdea5f97a883c0fd06e"', 'Content-Length': '0', 'Server': 'AmazonS3'}
+2021-01-06 14:19:08,867:DEBUG:Response body:
+b''
+2021-01-06 14:19:08,867:DEBUG:Event needs-retry.s3.PutObject: calling handler <botocore.retryhandler.RetryHandler object at 0x0000009480BBA8C8>
+2021-01-06 14:19:08,867:DEBUG:No retry needed.
+2021-01-06 14:19:08,868:DEBUG:Event needs-retry.s3.PutObject: calling handler <bound method S3RegionRedirector.redirect_from_error of <botocore.utils.S3RegionRedirector object at 0x0000009480BBAB08>>
+2021-01-06 14:19:08,868:DEBUG:Releasing acquire 0/None
+2021-01-06 14:20:48,780:INFO:Shutting down
+2021-01-06 14:20:48,883:INFO:Waiting for application shutdown.
+2021-01-06 14:20:48,884:INFO:Application shutdown complete.
+2021-01-06 14:20:48,884:INFO:Finished server process [14996]
+
+
+
+
+
+
+
+2021-01-06 14:30:48,333:INFO:Started server process [17956]
+2021-01-06 14:30:48,333:INFO:Waiting for application startup.
+2021-01-06 14:30:48,334:INFO:Application startup complete.
+2021-01-06 14:30:48,335:INFO:Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-01-06 14:31:05,064:INFO:Using CPU
+2021-01-06 14:31:05,064:INFO:
+2021-01-06 14:31:05,617:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-06 14:31:07,140:DEBUG:Was able to return the labeled image succesfuly
+2021-01-06 14:31:07,153:DEBUG:Saved to db succesfuly with record no :48
+2021-01-06 14:32:18,944:INFO:Shutting down
+2021-01-06 14:32:19,046:INFO:Waiting for application shutdown.
+2021-01-06 14:32:19,048:INFO:Application shutdown complete.
+2021-01-06 14:32:19,048:INFO:Finished server process [17956]
+2021-01-06 20:35:11,762:INFO:Started server process [32]
+2021-01-06 20:35:11,782:INFO:Waiting for application startup.
+2021-01-06 20:35:11,783:INFO:Application startup complete.
+2021-01-06 20:35:11,784:INFO:Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-01-06 20:35:52,562:INFO:Using CPU
+2021-01-06 20:35:52,562:INFO:
+2021-01-06 20:35:53,711:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-06 20:35:55,177:DEBUG:Was able to return the labeled image succesfuly
+2021-01-06 20:35:55,187:DEBUG:Saved to db succesfuly with record no :49
+2021-01-06 20:53:32,946:INFO:Shutting down
+2021-01-06 20:53:33,049:INFO:Waiting for application shutdown.
+2021-01-06 20:53:33,050:INFO:Application shutdown complete.
+2021-01-06 20:53:33,051:INFO:Finished server process [32]
+2021-01-07 19:35:57,645:INFO:Started server process [12992]
+2021-01-07 19:35:57,670:INFO:Waiting for application startup.
+2021-01-07 19:35:57,671:INFO:Application startup complete.
+2021-01-07 19:35:57,672:INFO:Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-01-07 19:37:48,016:INFO:Using CPU
+2021-01-07 19:37:48,016:INFO:
+2021-01-07 19:37:49,400:INFO:Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-01-07 19:37:51,824:DEBUG:Was able to return the labeled image succesfuly
+2021-01-07 19:37:51,946:DEBUG:Saved to db succesfuly with record no :50
+2021-01-07 19:57:27,182:INFO:Shutting down
+2021-01-07 19:57:27,284:INFO:Waiting for application shutdown.
+2021-01-07 19:57:27,285:INFO:Application shutdown complete.
+2021-01-07 19:57:27,286:INFO:Finished server process [12992]
